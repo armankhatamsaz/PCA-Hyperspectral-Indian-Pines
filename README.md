@@ -63,8 +63,9 @@ The analysis demonstrates the effectiveness of PCA for dimensionality reduction 
 
 *   `PCA-Hyperspectral-Indian-Pines.ipynb`: The main Jupyter/Colab notebook containing the code and analysis. (Please rename if you used a different name)
 *   `README.md`: This file.
-*   `.gitignore` (Recommended): Specifies intentionally untracked files.
-*   `LICENSE` (Recommended): The project license.
+*   `.gitignore`: Specifies intentionally untracked files.
+*   `Indian_pines`
+*   `Indian_pines_gt`
 
 ## (Optional) Future Work
 
